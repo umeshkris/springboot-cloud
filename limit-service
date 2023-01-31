@@ -1,2 +1,2 @@
-min-limit =1
-max-limi=999
+limits-service.minlimit =4
+limits-service.maxlimit= 996
